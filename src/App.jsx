@@ -1,6 +1,5 @@
 import InputQrCode from "./components/InputQrCode";
 import Modal from "react-modal";
-import { useState } from "react";
 import "./App.css";
 
 Modal.setAppElement("#root");
